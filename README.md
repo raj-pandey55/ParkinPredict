@@ -26,14 +26,17 @@ To use the system, simply provide it with a list of the individual's features, a
 The dataset can be used to train a machine learning model to detect Parkinson's disease. The model can then be used to predict whether a new individual has Parkinson's disease based on their features.
 
 • Install the required Python libraries:
+  numpy
+  pandas
+  sckit-learn
 
-• Download the Parkinson's Disease Detection Dataset:
+• Download the Parkinson's Disease Detection Dataset
 
-• Run the following command to train the model:
+• Run the following command to train the model
 Python
 python model.py
 
-• Once the model is trained, you can use it to make predictions on new data:
+• Once the model is trained, you can use it to make predictions on new data
 
 # Example:
 
